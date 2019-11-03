@@ -42,4 +42,4 @@ E pronto, clique em "Build" > "Build Artifacts" > "Build" e vá para a pasta do 
 
 ## Download
 
-Caso não consiga buildar o plugin na ide, baixe ele [clicando aqui)(https://www.mediafire.com/file/94raa482ry1ioyg/EDDCalculator.jar/file)
+Caso não consiga buildar o plugin na ide, baixe ele [clicando aqui](https://www.mediafire.com/file/94raa482ry1ioyg/EDDCalculator.jar/file)
