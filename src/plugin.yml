@@ -1,0 +1,6 @@
+name: EDDCalculator
+version: 1.0
+author: Stanic
+main: stanic.eddcalculator.Main
+commands:
+  calculadora:
